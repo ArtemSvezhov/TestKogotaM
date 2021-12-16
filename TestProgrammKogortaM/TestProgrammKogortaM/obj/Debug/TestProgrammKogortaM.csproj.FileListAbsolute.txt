@@ -1,0 +1,7 @@
+D:\VisualWorks\TestProgrammKogortaM\TestProgrammKogortaM\bin\Debug\TestProgrammKogortaM.exe.config
+D:\VisualWorks\TestProgrammKogortaM\TestProgrammKogortaM\bin\Debug\TestProgrammKogortaM.exe
+D:\VisualWorks\TestProgrammKogortaM\TestProgrammKogortaM\bin\Debug\TestProgrammKogortaM.pdb
+D:\VisualWorks\TestProgrammKogortaM\TestProgrammKogortaM\obj\Debug\TestProgrammKogortaM.csprojAssemblyReference.cache
+D:\VisualWorks\TestProgrammKogortaM\TestProgrammKogortaM\obj\Debug\TestProgrammKogortaM.csproj.CoreCompileInputs.cache
+D:\VisualWorks\TestProgrammKogortaM\TestProgrammKogortaM\obj\Debug\TestProgrammKogortaM.exe
+D:\VisualWorks\TestProgrammKogortaM\TestProgrammKogortaM\obj\Debug\TestProgrammKogortaM.pdb
